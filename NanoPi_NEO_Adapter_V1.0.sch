@@ -4973,12 +4973,13 @@ Based on  the following source:
 Creative Commons CC-BY-NC-SA 3.0
 Not for commercial use
 </text>
+<text x="238.76" y="7.62" size="1.778" layer="97">V1.0</text>
 </plain>
 <instances>
 <instance part="FRAME1" gate="G$1" x="0" y="0"/>
 <instance part="FRAME1" gate="G$2" x="147.32" y="0"/>
 <instance part="GND1" gate="1" x="121.92" y="55.88"/>
-<instance part="P+1" gate="1" x="121.92" y="170.18"/>
+<instance part="P+1" gate="1" x="121.92" y="172.72"/>
 <instance part="UART1" gate="-1" x="167.64" y="88.9" rot="MR180"/>
 <instance part="UART1" gate="-2" x="167.64" y="91.44" rot="MR180"/>
 <instance part="UART1" gate="-3" x="167.64" y="93.98" rot="MR180"/>
@@ -5006,7 +5007,7 @@ Not for commercial use
 <instance part="H4" gate="G$1" x="243.84" y="40.64" rot="R180"/>
 <instance part="H5" gate="G$1" x="243.84" y="48.26" rot="R180"/>
 <instance part="H6" gate="G$1" x="5.08" y="5.08"/>
-<instance part="+3V1" gate="G$1" x="114.3" y="170.18"/>
+<instance part="+3V1" gate="G$1" x="114.3" y="172.72"/>
 <instance part="I2C" gate="-1" x="91.44" y="96.52" rot="R180"/>
 <instance part="I2C" gate="-2" x="91.44" y="99.06" rot="R180"/>
 <instance part="I2C" gate="-3" x="91.44" y="101.6" rot="R180"/>
@@ -5129,7 +5130,7 @@ Not for commercial use
 <wire x1="144.78" y1="114.3" x2="121.92" y2="114.3" width="0.1524" layer="91"/>
 <wire x1="121.92" y1="114.3" x2="121.92" y2="134.62" width="0.1524" layer="91"/>
 <wire x1="121.92" y1="134.62" x2="121.92" y2="157.48" width="0.1524" layer="91"/>
-<wire x1="121.92" y1="157.48" x2="121.92" y2="167.64" width="0.1524" layer="91"/>
+<wire x1="121.92" y1="157.48" x2="121.92" y2="170.18" width="0.1524" layer="91"/>
 <pinref part="JP1" gate="A" pin="1"/>
 <wire x1="129.54" y1="157.48" x2="121.92" y2="157.48" width="0.1524" layer="91"/>
 <junction x="121.92" y="157.48"/>
@@ -5168,8 +5169,8 @@ Not for commercial use
 <net name="+3V3" class="0">
 <segment>
 <pinref part="+3V1" gate="G$1" pin="+3V3"/>
-<wire x1="114.3" y1="121.92" x2="114.3" y2="162.56" width="0.1524" layer="91"/>
-<wire x1="114.3" y1="162.56" x2="114.3" y2="167.64" width="0.1524" layer="91"/>
+<wire x1="114.3" y1="121.92" x2="114.3" y2="165.1" width="0.1524" layer="91"/>
+<wire x1="114.3" y1="165.1" x2="114.3" y2="170.18" width="0.1524" layer="91"/>
 <pinref part="R3" gate="G$1" pin="2"/>
 <wire x1="104.14" y1="119.38" x2="104.14" y2="121.92" width="0.1524" layer="91"/>
 <wire x1="104.14" y1="121.92" x2="114.3" y2="121.92" width="0.1524" layer="91"/>
@@ -5179,9 +5180,9 @@ Not for commercial use
 <junction x="104.14" y="121.92"/>
 <pinref part="R7" gate="G$1" pin="1"/>
 <wire x1="149.86" y1="160.02" x2="147.32" y2="160.02" width="0.1524" layer="91"/>
-<wire x1="147.32" y1="160.02" x2="147.32" y2="162.56" width="0.1524" layer="91"/>
-<wire x1="147.32" y1="162.56" x2="114.3" y2="162.56" width="0.1524" layer="91"/>
-<junction x="114.3" y="162.56"/>
+<wire x1="147.32" y1="160.02" x2="147.32" y2="165.1" width="0.1524" layer="91"/>
+<wire x1="147.32" y1="165.1" x2="114.3" y2="165.1" width="0.1524" layer="91"/>
+<junction x="114.3" y="165.1"/>
 <wire x1="114.3" y1="86.36" x2="114.3" y2="121.92" width="0.1524" layer="91"/>
 <junction x="114.3" y="121.92"/>
 <pinref part="JP2" gate="A" pin="17"/>
