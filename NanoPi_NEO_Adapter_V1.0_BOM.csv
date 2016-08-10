@@ -1,0 +1,11 @@
+Part,Digi-Key Part Number,Manufacturer,Manufacturer Part Number,Customer Reference,Quantity 1,Quantity 2,Quantity 3,Mfg Std Lead Time,Description,Comments,RoHS Status,Lead Free Status,REACH Status
+USB,609-1045-ND,AMPHENOL FCI,87520-0010BLF,,1,0,0,17 Weeks,CONN RCPT USB TYPE A R/A PCB,,RoHS Compliant,Lead free,Not Available
+JP1,S7008-ND,SULLINS CONNECTOR SOLUTIONS,PPTC101LFBN-RC,,1,0,0,3 Weeks,"CONN HEADER FEMALE 10POS.1"" TIN",,RoHS Compliant,Lead free,Unaffected Dec-2015
+JP2,S7115-ND,SULLINS CONNECTOR SOLUTIONS,PPPC122LFBN-RC,,1,0,0,3 Weeks,"CONN HEADER FMAL 24PS.1"" DL GOLD",,RoHS Compliant,Lead free,Unaffected Dec-2015
+USB1 UART1 SWD UART2,455-1804-1-ND,JST SALES AMERICA INC (VA),SM04B-SRSS-TB(LF)(SN),,4,0,0,14 Weeks,CONN HEADER SH 4POS SIDE 1MM TIN,Alternate Packaging Exists,RoHS Compliant,Lead free,Not Available
+SPI,455-1808-1-ND,JST SALES AMERICA INC (VA),SM08B-SRSS-TB(LF)(SN),,1,0,0,14 Weeks,CONN HEADER SH 8POS SIDE 1MM TIN,Alternate Packaging Exists,RoHS Compliant,Lead free,Not Available
+R1 R3,P2.2KJCT-ND,PANASONIC ELECTRONIC COMPONENTS (VA),ERJ-2GEJ222X,,2,0,0,6 Weeks,RES SMD 2.2K OHM 5% 1/10W 0402,Alternate Packaging Exists,RoHS Compliant,Lead free,Unaffected Jun-2015
+R2 R6 R7,P100JCT-ND,PANASONIC ELECTRONIC COMPONENTS (VA),ERJ-2GEJ101X,,3,0,0,6 Weeks,RES SMD 100 OHM 5% 1/10W 0402,Alternate Packaging Exists,RoHS Compliant,Lead free,Unaffected Jun-2015
+POWER,846-1191-1-ND,ROHM SEMICONDUCTOR(VA),SML-P12M2TT86R,,1,0,0,10 Weeks,LED HB 576NM YWGN TRANSP 1006,Alternate Packaging Exists,RoHS Compliant,Lead free,Unaffected Jun-2015
+LED1,846-1168-1-ND,ROHM SEMICONDUCTOR(VA),SML-P12VTT86R,,1,0,0,10 Weeks,LED RED CLEAR 0402 SMD,Alternate Packaging Exists,RoHS Compliant,Lead free,Unaffected Jun-2015
+LED2,846-1204-1-ND,ROHM SEMICONDUCTOR(VA),SML-P12YTT86R,,1,0,0,8 Weeks,LED YELLOW CLEAR 0402 SMD,,RoHS Compliant,Lead free,Not Available
